@@ -16,3 +16,5 @@ Information about various FOSS open source competitions.
 | [The X.Org Endless Vacation of Code (EVoC)](http://www.x.org/wiki/XorgEVoC/)| Yes |
 | [DataONE Summer Internship Program](https://www.dataone.org/internships) | Yes (USA citizens only)|
 | [Free Software Foundation Internship](http://www.fsf.org/volunteer/internships) | No|
+| [Julia Seasons of Contributions](https://julialang.org/jsoc/) | Yes |
+| [BOSS - Bountiful Open Source Summer](http://lab.codingblocks.com/boss) | Yes |
